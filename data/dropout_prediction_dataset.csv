@@ -1,0 +1,501 @@
+StudentID,Name,Department,YearOfStudy,AttendancePercentage,CGPA,EntranceExamScore,ActivityPoints,RewardPoints,ArrearCount,DisciplineCount,FeeDueDays,LMSLoginCount,HostelStatus,FamilyIncomeCategory,ExtracurricularParticipation,AttendanceTrend,BacklogTrend,Dropout
+STU1000,Sundar Ravi,IT,4,78.4,8.94,74.7,23736,6316,1,0,94,45,Day Scholar,Low,Yes,Stable,Increasing,0
+STU1001,Hariharan Shanmugam,EEE,2,43.4,7.59,48.2,14204,12581,2,1,2,48,Day Scholar,Medium,No,Improving,Decreasing,1
+STU1002,Arjun Iyer,AIDS,2,90.4,6.9,90.5,30368,6024,3,0,10,18,Hosteller,Medium,Yes,Stable,Increasing,0
+STU1003,Sathish Nair,CSE,1,45.9,6.55,64.8,36400,8824,2,0,1,27,Day Scholar,Medium,Yes,Stable,Stable,1
+STU1004,Vijay Chandran,IT,2,98.7,8.82,75.9,5576,3788,1,0,34,61,Day Scholar,Medium,No,Declining,Decreasing,0
+STU1005,Kumar Murugan,CIVIL,1,93.2,10,60.2,9060,15132,4,1,2,21,Hosteller,High,No,Improving,Stable,1
+STU1006,Gayathri Krishnan,CIVIL,4,100,7.58,68.9,20388,6274,2,0,22,54,Hosteller,Low,No,Improving,Stable,1
+STU1007,Nithya Raj,ECE,1,81.6,5.66,69.5,17691,16615,5,0,1,43,Hosteller,Medium,Yes,Stable,Stable,0
+STU1008,Revathi Moorthy,IT,2,72.9,6.8,22.7,37068,9305,0,0,22,66,Day Scholar,Low,No,Declining,Decreasing,0
+STU1009,Priyanka Pillai,MECH,4,71.7,7.56,73.7,21978,1965,2,1,37,58,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1010,Divya Kumar,IT,3,70.4,3.95,94.5,32533,8145,3,1,10,36,Hosteller,High,No,Stable,Increasing,1
+STU1011,Deepa Moorthy,AIDS,2,91.7,7.43,73.1,1558,3686,2,0,15,41,Hosteller,Low,Yes,Declining,Decreasing,1
+STU1012,Ashwin Sekar,CSE,1,88,7.57,50.6,27328,11947,3,0,10,5,Hosteller,Low,No,Declining,Stable,1
+STU1013,Gokul Naidu,CSE,1,79.7,8.72,74.7,13560,7693,2,0,7,42,Day Scholar,Medium,No,Stable,Stable,0
+STU1014,Yamini Rajan,AIDS,3,67.9,8.59,80.9,13416,9816,3,2,33,20,Hosteller,Medium,No,Stable,Decreasing,0
+STU1015,Bharath Shanmugam,IT,1,100,7.14,72.7,17765,7153,1,1,6,41,Hosteller,Medium,Yes,Improving,Stable,0
+STU1016,Madhumitha Ravi,AIDS,2,90.8,8.97,63.9,7179,6223,1,2,26,32,Hosteller,Low,No,Declining,Stable,1
+STU1017,Karthik Subramani,EEE,4,55.6,9.65,61.4,23985,4132,3,1,5,27,Hosteller,Low,Yes,Stable,Stable,1
+STU1018,Vignesh Reddy,AIDS,1,70.8,7.04,61.3,21716,13181,2,2,6,69,Hosteller,Medium,No,Declining,Stable,0
+STU1019,Sundar Venkat,CIVIL,4,91,7.54,75.5,22396,8134,5,0,8,19,Hosteller,Low,Yes,Improving,Stable,1
+STU1020,Priya Ganesan,AIDS,4,66.8,4.7,43.9,27983,7427,2,0,18,26,Hosteller,High,No,Stable,Stable,1
+STU1021,Dhanya Reddy,CSE,1,82.9,5.11,59.4,33633,8009,1,2,12,31,Day Scholar,Low,Yes,Stable,Increasing,0
+STU1022,Divyabharathi Raj,CIVIL,4,91.3,5.91,88.9,16727,5606,2,2,27,35,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1023,Pooja Shanmugam,CSE,2,35,6.42,89.5,24296,7443,1,2,5,27,Hosteller,Low,Yes,Improving,Increasing,1
+STU1024,Vignesh Moorthy,ECE,4,76.5,5.58,42.8,22637,10028,1,0,0,38,Day Scholar,Low,Yes,Stable,Stable,1
+STU1025,Anitha Shanmugam,MECH,3,77,6.95,48,23399,3829,4,1,30,51,Hosteller,Medium,No,Declining,Increasing,1
+STU1026,Rajesh Ganesan,CSE,3,72.2,6.46,60.9,23533,4553,2,1,34,58,Day Scholar,Medium,No,Stable,Stable,1
+STU1027,Naveen Murugan,CIVIL,3,82.2,8.39,78.4,34315,15891,2,0,1,57,Hosteller,Low,No,Improving,Stable,0
+STU1028,Dhanya Iyer,ECE,4,87.2,6.38,37.6,15863,7186,2,2,19,7,Hosteller,Low,Yes,Stable,Increasing,1
+STU1029,Priya Raj,CSE,3,80,4.03,64.2,6268,6242,3,2,10,53,Hosteller,Low,No,Stable,Decreasing,1
+STU1030,Meena Naidu,EEE,2,72.8,7.16,57.9,13719,2281,3,0,32,54,Hosteller,Medium,No,Improving,Decreasing,1
+STU1031,Priya Venkat,AIDS,4,86.9,6.98,84.9,26815,13253,3,2,41,32,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1032,Divyabharathi Moorthy,MECH,1,78.7,5.88,39.8,20210,3720,5,3,38,78,Hosteller,Low,No,Declining,Increasing,1
+STU1033,Sowmya Naidu,CSE,1,74.8,7.12,66.4,15792,8924,1,1,30,67,Hosteller,Medium,No,Stable,Stable,1
+STU1034,Aparna Ganesan,ECE,1,59.6,5.6,59.1,10312,459,3,3,6,41,Hosteller,Medium,No,Stable,Stable,1
+STU1035,Dinesh Rajan,EEE,2,56.1,7.43,87,21992,13091,0,0,33,33,Hosteller,High,No,Stable,Increasing,0
+STU1036,Bharath Iyer,IT,1,59.4,10,74,25801,14884,2,0,15,78,Hosteller,High,Yes,Stable,Stable,0
+STU1037,Sangeetha Iyer,ECE,4,81.9,4.65,56.2,22753,11423,4,1,1,45,Hosteller,Medium,Yes,Improving,Increasing,1
+STU1038,Sathish Rajan,AIDS,1,76.9,6.33,77.8,17720,1328,3,1,12,47,Hosteller,Low,No,Declining,Stable,1
+STU1039,Senthil Venkat,ECE,3,57.3,6.12,59.2,21320,13194,0,1,57,46,Day Scholar,Low,No,Declining,Increasing,1
+STU1040,Prakash Balan,EEE,1,87,6.44,80,21268,4863,0,1,44,91,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1041,Balaji Shanmugam,ECE,4,97.2,8.33,61.4,21707,3145,2,0,2,41,Day Scholar,High,Yes,Stable,Decreasing,0
+STU1042,Senthil Kumar,EEE,4,69.6,7.71,80.8,9341,7083,2,0,27,45,Day Scholar,Medium,No,Declining,Stable,0
+STU1043,Ashwin Nair,CSE,2,53.6,8.1,71.5,21776,6983,2,0,33,28,Hosteller,Medium,No,Stable,Stable,1
+STU1044,Ramesh Kumar,EEE,4,68.1,7.04,100,16035,6475,2,1,6,37,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1045,Madhumitha Iyer,EEE,1,90,5.28,64.2,29366,15368,3,3,13,24,Day Scholar,Medium,No,Improving,Stable,0
+STU1046,Revathi Chandran,MECH,4,85.7,5.55,70.7,21196,19059,0,1,25,29,Hosteller,Low,No,Stable,Decreasing,0
+STU1047,Naveen Iyer,EEE,1,65.1,7.97,57.8,27519,2154,0,2,12,9,Day Scholar,Medium,No,Declining,Stable,1
+STU1048,Rajesh Krishnan,EEE,4,99.3,7.22,65,17284,5556,1,1,2,63,Hosteller,Low,Yes,Improving,Stable,0
+STU1049,Mukesh Subramani,IT,1,96.9,8.64,24.5,17609,9714,3,1,24,48,Hosteller,Low,No,Improving,Decreasing,1
+STU1050,Preethi Nair,CSE,3,67.7,7.38,72,33448,7056,1,0,49,50,Day Scholar,Medium,No,Stable,Stable,0
+STU1051,Balaji Nair,AIDS,3,67.6,5.46,85.1,23927,10997,4,3,21,44,Hosteller,Low,Yes,Declining,Stable,1
+STU1052,Ramesh Iyer,MECH,1,69.7,6.32,70.9,13569,13580,4,3,30,46,Hosteller,Low,No,Stable,Stable,1
+STU1053,Deepa Raj,IT,1,70.9,7.73,45.3,28073,12747,1,0,9,77,Hosteller,Low,Yes,Stable,Decreasing,0
+STU1054,Mukesh Rajan,CIVIL,1,91.3,7.92,53,15200,12049,3,0,4,30,Day Scholar,High,Yes,Stable,Increasing,0
+STU1055,Manoj Subramani,CSE,2,84,8.11,28.5,22031,17295,4,2,21,51,Day Scholar,Medium,No,Stable,Stable,0
+STU1056,Rajesh Moorthy,CSE,3,90.3,5.64,79.7,36530,1055,3,0,8,50,Day Scholar,Low,Yes,Improving,Decreasing,0
+STU1057,Gayathri Krishnan,CIVIL,1,87.4,5.44,49.9,7118,16401,1,0,39,68,Day Scholar,Medium,Yes,Improving,Stable,1
+STU1058,Arun Krishnan,AIDS,2,100,6.75,64.6,18418,6935,0,1,3,54,Hosteller,Low,No,Stable,Increasing,1
+STU1059,Vikram Shanmugam,EEE,1,63.2,8.87,62.7,23674,12926,1,0,11,55,Hosteller,Medium,Yes,Stable,Stable,0
+STU1060,Sangeetha Krishnan,IT,4,83.3,6.1,87.3,26882,3852,3,1,10,20,Day Scholar,Medium,No,Declining,Increasing,1
+STU1061,Arun Subramani,ECE,1,47.6,7.59,66.3,8829,4458,4,1,56,29,Day Scholar,High,No,Stable,Decreasing,1
+STU1062,Divyabharathi Ganesan,MECH,2,59.6,7.59,77.1,6178,12311,4,0,3,22,Hosteller,Medium,Yes,Improving,Increasing,1
+STU1063,Sundar Reddy,ECE,1,77,7.99,73.2,29817,0,3,2,0,0,Hosteller,High,Yes,Stable,Stable,0
+STU1064,Bharath Shanmugam,CIVIL,2,83.9,9.16,85.4,13516,13947,4,1,5,53,Day Scholar,High,No,Stable,Decreasing,0
+STU1065,Divyabharathi Naidu,CSE,4,76.6,9.03,61.4,13139,15300,0,2,34,40,Day Scholar,High,No,Improving,Stable,1
+STU1066,Praveen Muthu,AIDS,2,70.1,6.23,93,33952,9889,1,1,5,53,Day Scholar,Medium,Yes,Declining,Increasing,1
+STU1067,Keerthana Nair,CSE,1,72.5,4.27,35.2,20627,9709,1,1,6,46,Hosteller,Medium,Yes,Declining,Increasing,1
+STU1068,Selvam Ravi,MECH,3,97.2,6.12,77.9,20686,4832,1,1,3,50,Day Scholar,Medium,No,Improving,Stable,0
+STU1069,Keerthana Murugan,CSE,4,72.6,7.1,52,18382,12372,1,1,25,72,Day Scholar,Low,Yes,Stable,Decreasing,0
+STU1070,Priyanka Subramani,CSE,1,100,6.53,57.6,8984,10738,1,1,1,45,Hosteller,Low,No,Improving,Stable,0
+STU1071,Manoj Nair,MECH,3,89.1,9.56,73.5,26081,4392,2,1,8,58,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1072,Senthil Shanmugam,IT,4,84.4,7.02,73.4,23685,7043,1,1,7,39,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1073,Arjun Murugan,IT,1,61.3,7.85,74.1,21518,8203,1,1,16,61,Day Scholar,High,Yes,Stable,Stable,0
+STU1074,Praveen Nair,MECH,3,91.1,7.28,44.2,18953,7036,3,1,26,20,Day Scholar,Low,Yes,Declining,Increasing,0
+STU1075,Nithya Raj,AIDS,3,71.1,6.55,86.7,17369,2185,2,0,15,8,Day Scholar,Low,No,Improving,Stable,1
+STU1076,Preethi Balan,CIVIL,2,61.3,4.5,51.5,28212,12495,1,0,53,87,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1077,Meena Moorthy,CSE,1,85.2,6.9,53.5,18728,7782,1,2,61,82,Hosteller,Medium,Yes,Declining,Stable,0
+STU1078,Madhumitha Ravi,AIDS,1,58.6,10,74.6,19423,9077,2,0,9,6,Day Scholar,Low,No,Stable,Increasing,0
+STU1079,Priyanka Chandran,CSE,4,67.3,5.38,60.7,24769,6109,3,1,30,44,Day Scholar,High,Yes,Improving,Increasing,1
+STU1080,Yamini Nair,CIVIL,4,77.9,4.64,69.6,21872,11376,3,1,27,48,Day Scholar,Medium,No,Improving,Stable,0
+STU1081,Mukesh Kumar,IT,3,100,9.52,32.7,34780,9993,1,1,45,59,Hosteller,Medium,No,Stable,Increasing,0
+STU1082,Gokul Ravi,AIDS,2,68.4,7.96,69.3,4148,15064,2,2,12,80,Day Scholar,High,No,Declining,Increasing,1
+STU1083,Praveen Reddy,EEE,3,71.6,7.24,68.3,22699,11403,4,0,15,24,Hosteller,Medium,No,Declining,Decreasing,1
+STU1084,Karthik Nair,EEE,3,88.3,8.77,57.4,13650,7987,2,2,11,25,Day Scholar,Medium,No,Declining,Stable,1
+STU1085,Meena Iyer,EEE,2,60.7,5.92,33.9,11521,5301,1,0,38,45,Day Scholar,High,Yes,Declining,Increasing,1
+STU1086,Gokul Reddy,IT,1,84.2,6.86,61.8,15886,13330,1,1,5,26,Hosteller,Low,Yes,Stable,Stable,1
+STU1087,Vikram Kumar,IT,4,94.9,8.24,64.4,20492,7587,0,1,5,0,Hosteller,Medium,No,Declining,Decreasing,0
+STU1088,Preethi Moorthy,CIVIL,2,73.7,9.74,59.5,20892,8141,2,3,9,40,Hosteller,Low,No,Declining,Stable,1
+STU1089,Revathi Shanmugam,CSE,4,92.4,5.48,37.5,6344,8140,0,1,5,62,Hosteller,Low,Yes,Stable,Stable,0
+STU1090,Keerthana Reddy,CIVIL,1,82.1,8.66,88.9,15130,6992,2,1,16,45,Day Scholar,High,No,Stable,Increasing,0
+STU1091,Selvam Sekar,CIVIL,1,67.8,7.5,55.4,22531,8227,4,0,3,57,Hosteller,Medium,No,Stable,Stable,0
+STU1092,Deepa Nair,IT,1,75.2,7.21,61.7,12108,18631,2,1,8,55,Hosteller,Medium,Yes,Improving,Stable,0
+STU1093,Divya Krishnan,EEE,2,72.7,6.99,28.9,9967,3761,3,3,49,24,Hosteller,High,No,Improving,Increasing,1
+STU1094,Selvam Subramani,ECE,4,76.8,5.2,88.9,0,4927,3,2,11,46,Hosteller,High,Yes,Declining,Stable,1
+STU1095,Selvam Sekar,CSE,1,80.1,8.25,58,14031,15922,3,1,28,14,Day Scholar,High,No,Declining,Decreasing,1
+STU1096,Selvam Raj,IT,4,86.2,5.98,66.5,9653,7126,2,2,2,35,Hosteller,Medium,No,Improving,Increasing,0
+STU1097,Divya Subramani,EEE,2,85.1,5.6,81.8,11145,6747,0,1,6,46,Day Scholar,Medium,Yes,Stable,Stable,1
+STU1098,Keerthana Kumar,AIDS,4,44,8.15,54.9,17554,14174,1,1,33,45,Hosteller,Low,Yes,Declining,Stable,1
+STU1099,Arun Muthu,ECE,2,76.6,8.03,79.4,14602,1899,2,0,29,19,Hosteller,Medium,No,Stable,Stable,1
+STU1100,Divya Moorthy,ECE,4,56.9,7.1,34.1,9504,13107,3,1,10,23,Hosteller,Medium,No,Stable,Decreasing,1
+STU1101,Divyabharathi Pillai,IT,3,74.1,8.4,73.3,957,9228,0,1,62,51,Day Scholar,Medium,No,Stable,Increasing,1
+STU1102,Keerthana Murugan,MECH,1,76.3,8.85,88.6,22721,11324,1,1,48,62,Day Scholar,Medium,Yes,Declining,Stable,0
+STU1103,Kumar Sekar,CSE,1,91.7,8.7,56.3,26775,11230,4,2,66,41,Day Scholar,High,Yes,Declining,Stable,1
+STU1104,Sneha Subramani,ECE,4,77.6,6.31,81.8,16429,5860,2,0,11,40,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1105,Sowmya Pillai,IT,4,81.6,8.32,92.5,17608,14256,1,1,4,64,Hosteller,Medium,No,Improving,Stable,0
+STU1106,Nithya Chandran,IT,1,89.1,7.28,61.2,20025,6249,1,1,20,30,Day Scholar,Medium,Yes,Declining,Increasing,1
+STU1107,Vaishnavi Rajan,EEE,3,95.2,9.24,59.9,34209,11044,2,3,23,80,Day Scholar,Low,Yes,Improving,Increasing,0
+STU1108,Mukesh Reddy,AIDS,4,76.3,6.84,51.5,5891,15189,4,0,3,18,Hosteller,Low,No,Stable,Increasing,1
+STU1109,Meena Rajan,MECH,4,79.3,6.54,57.4,16270,15895,2,1,31,66,Hosteller,Medium,No,Improving,Stable,1
+STU1110,Hariharan Krishnan,CSE,4,78.1,6.2,52.8,4502,7664,5,0,0,56,Day Scholar,Low,Yes,Stable,Increasing,1
+STU1111,Pooja Murugan,CIVIL,3,70.4,7.25,51.5,23261,11316,0,0,13,93,Hosteller,Medium,No,Stable,Stable,0
+STU1112,Vijay Krishnan,AIDS,2,67.2,7.61,83,18704,7203,3,1,8,23,Day Scholar,Medium,No,Improving,Increasing,0
+STU1113,Vijay Ravi,AIDS,2,46.2,7.63,53.2,21827,20000,2,0,27,0,Hosteller,Low,Yes,Declining,Increasing,1
+STU1114,Keerthana Nair,EEE,2,62.9,7.45,68.9,21378,12901,2,0,8,70,Hosteller,Low,Yes,Improving,Stable,1
+STU1115,Balaji Kumar,ECE,3,53.1,7.87,65.6,28916,9420,1,2,35,16,Day Scholar,Medium,Yes,Declining,Stable,1
+STU1116,Gayathri Nair,ECE,3,95.6,6.71,87.5,24843,10563,2,1,18,57,Day Scholar,Medium,No,Declining,Decreasing,0
+STU1117,Swathi Iyer,EEE,1,80.6,5.87,57.5,27475,11036,3,0,32,69,Hosteller,Medium,No,Stable,Stable,0
+STU1118,Arun Chandran,IT,4,76.2,5.75,70.7,10410,11184,1,0,91,53,Day Scholar,Medium,Yes,Stable,Increasing,1
+STU1119,Yamini Venkat,ECE,3,68,8.27,76.9,30739,7800,2,2,23,50,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1120,Manoj Naidu,MECH,3,78.4,7.61,87.3,13499,7028,1,1,84,53,Hosteller,High,No,Declining,Decreasing,0
+STU1121,Rajesh Nair,CSE,2,66.1,4.59,57.2,14016,8241,2,2,1,62,Day Scholar,Medium,No,Stable,Decreasing,1
+STU1122,Kavya Rajan,AIDS,3,80.4,8.43,55.7,22438,3302,3,0,8,57,Hosteller,High,No,Stable,Increasing,0
+STU1123,Selvam Raj,AIDS,1,81.4,9.44,49.1,22717,12591,2,1,2,21,Hosteller,Low,No,Stable,Stable,1
+STU1124,Arun Rajan,MECH,1,65.9,6.07,98.5,10353,4991,3,3,6,81,Hosteller,Medium,No,Stable,Decreasing,1
+STU1125,Deepa Subramani,ECE,1,65.7,7.44,85.8,18440,3700,3,0,37,46,Day Scholar,Medium,No,Declining,Stable,1
+STU1126,Vikram Reddy,AIDS,1,91.5,6.38,64.4,33394,8928,2,1,1,55,Hosteller,Low,Yes,Improving,Stable,0
+STU1127,Balaji Krishnan,CIVIL,2,77.3,7.82,94,6785,8349,0,1,15,59,Day Scholar,Low,No,Stable,Stable,0
+STU1128,Vijay Rajan,CSE,2,67.1,5.48,63.5,33367,10248,3,0,17,68,Day Scholar,Medium,Yes,Stable,Increasing,0
+STU1129,Kavya Krishnan,CSE,1,72.8,6.91,75.9,17825,6159,2,0,16,66,Hosteller,Low,No,Declining,Stable,1
+STU1130,Pooja Kumar,AIDS,4,63.9,8.28,65.2,0,7037,1,1,13,48,Day Scholar,Low,No,Improving,Stable,1
+STU1131,Revathi Ravi,EEE,2,77.1,8.61,71,7699,12461,3,2,31,46,Day Scholar,High,No,Stable,Decreasing,0
+STU1132,Kumar Sekar,AIDS,4,89.6,7.55,69.4,11329,12156,2,1,3,53,Hosteller,High,Yes,Improving,Decreasing,0
+STU1133,Anitha Murugan,EEE,4,77.6,6.56,58.6,14385,11948,4,1,7,67,Hosteller,Medium,Yes,Stable,Stable,0
+STU1134,Sneha Iyer,AIDS,1,100,4.93,81.4,19058,9170,3,1,19,23,Hosteller,Medium,Yes,Declining,Stable,0
+STU1135,Pooja Krishnan,CIVIL,2,83.9,6.02,75.7,0,9845,3,3,23,58,Day Scholar,High,Yes,Declining,Stable,1
+STU1136,Vaishnavi Krishnan,IT,1,81.2,6.39,80.4,21681,10152,2,1,10,27,Day Scholar,Medium,No,Declining,Decreasing,1
+STU1137,Ashwin Venkat,CSE,3,65.3,6.09,69.8,10504,5720,1,1,42,82,Hosteller,Low,No,Stable,Decreasing,1
+STU1138,Abinaya Venkat,AIDS,3,74.7,7.08,51.4,32515,16370,1,4,11,52,Hosteller,High,Yes,Declining,Increasing,1
+STU1139,Divya Krishnan,CIVIL,1,67.1,6.56,90.6,17568,15658,0,1,10,37,Hosteller,Medium,Yes,Stable,Stable,0
+STU1140,Kavya Reddy,EEE,3,47.7,7.22,61.1,28486,12971,4,2,1,54,Day Scholar,Medium,No,Declining,Increasing,1
+STU1141,Aparna Kumar,EEE,1,91.6,8.56,70.5,29993,6871,3,1,16,45,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1142,Priya Kumar,CSE,1,70.8,6.47,74.5,29749,11696,0,0,25,42,Day Scholar,Medium,No,Stable,Stable,0
+STU1143,Sangeetha Rajan,MECH,3,67.4,5.2,70.4,14902,13892,0,1,2,9,Hosteller,High,Yes,Improving,Increasing,1
+STU1144,Pooja Iyer,AIDS,2,80.9,6.09,78.7,14787,2884,6,0,7,25,Day Scholar,Medium,Yes,Stable,Stable,1
+STU1145,Vignesh Krishnan,ECE,3,85.2,7.76,81.1,17975,17473,5,2,30,42,Hosteller,High,Yes,Improving,Decreasing,0
+STU1146,Naveen Kumar,EEE,2,73.5,7.88,61.6,25726,303,4,0,9,11,Day Scholar,High,Yes,Declining,Stable,0
+STU1147,Vaishnavi Moorthy,IT,4,78,7.53,89.4,15404,12523,2,1,6,33,Hosteller,Medium,No,Stable,Stable,1
+STU1148,Nithya Ganesan,IT,1,88.4,8.69,61,18927,16266,0,1,22,35,Day Scholar,Medium,Yes,Declining,Stable,0
+STU1149,Priyanka Pillai,EEE,2,73,6.76,70.1,22462,8435,1,2,4,29,Hosteller,Medium,No,Improving,Stable,1
+STU1150,Sneha Balan,MECH,3,82.2,9.67,59.2,11856,8248,6,2,45,60,Hosteller,Low,No,Improving,Stable,0
+STU1151,Anitha Raj,MECH,2,54.8,8.06,54.9,11287,12338,2,1,2,27,Hosteller,Low,Yes,Declining,Decreasing,1
+STU1152,Sathish Kumar,CIVIL,4,60.6,3.72,80.7,18576,18259,2,2,25,47,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1153,Yamini Shanmugam,IT,3,86.5,9.34,100,19768,7595,2,1,14,38,Hosteller,Medium,No,Stable,Decreasing,0
+STU1154,Mukesh Subramani,CIVIL,3,59.9,6,59.6,23905,5095,4,0,41,43,Hosteller,Low,No,Declining,Decreasing,1
+STU1155,Vaishnavi Muthu,IT,3,81.3,5.66,83.2,26047,6881,5,2,3,77,Day Scholar,Low,No,Stable,Stable,1
+STU1156,Priya Krishnan,AIDS,4,75.9,7.68,60.1,10108,1237,3,1,23,49,Day Scholar,High,Yes,Improving,Stable,1
+STU1157,Selvam Sekar,AIDS,4,72.9,4.74,64.8,12691,13489,1,1,17,52,Hosteller,Medium,Yes,Declining,Decreasing,1
+STU1158,Madhumitha Ganesan,ECE,3,66.4,6.1,91.4,11263,6430,2,0,13,30,Day Scholar,High,Yes,Improving,Increasing,0
+STU1159,Meena Krishnan,AIDS,3,90.7,9.02,48.9,32712,7958,4,1,14,58,Hosteller,Medium,No,Declining,Increasing,0
+STU1160,Balaji Subramani,ECE,1,100,7.72,44.9,18918,13548,5,1,26,57,Day Scholar,Medium,No,Improving,Stable,0
+STU1161,Revathi Sekar,AIDS,1,82.2,8.06,63.7,20145,7115,3,0,56,55,Day Scholar,Low,No,Stable,Increasing,1
+STU1162,Abinaya Krishnan,CSE,3,82.5,6.15,75,20520,12795,0,0,2,21,Hosteller,Medium,No,Improving,Stable,0
+STU1163,Mukesh Ravi,AIDS,1,68.4,5,72,13559,3810,2,1,0,33,Day Scholar,Medium,Yes,Stable,Decreasing,1
+STU1164,Sathish Kumar,CIVIL,2,61.3,7.92,70.4,34078,13794,3,4,33,74,Hosteller,Low,No,Improving,Increasing,1
+STU1165,Karthik Venkat,EEE,1,77.4,8.21,65.5,23699,10710,5,0,2,31,Day Scholar,Medium,No,Declining,Decreasing,1
+STU1166,Ashwin Naidu,CIVIL,2,64.4,8.15,76.8,20356,8557,0,1,86,76,Day Scholar,Medium,Yes,Stable,Increasing,0
+STU1167,Dinesh Krishnan,EEE,3,53.2,7.27,21.3,10053,9654,1,3,19,34,Day Scholar,Medium,No,Improving,Stable,1
+STU1168,Gayathri Ganesan,MECH,4,89.2,5.74,53.7,9543,2566,4,1,21,48,Hosteller,Medium,No,Stable,Stable,0
+STU1169,Revathi Venkat,CIVIL,1,89.9,10,63.6,17220,9540,1,1,4,41,Hosteller,Medium,No,Stable,Stable,0
+STU1170,Keerthana Shanmugam,MECH,2,66,7.62,75.6,13700,8292,1,1,5,28,Hosteller,Medium,No,Improving,Stable,0
+STU1171,Nithya Raj,ECE,4,81.4,6.77,87.3,10393,2703,3,3,22,28,Day Scholar,High,Yes,Improving,Decreasing,1
+STU1172,Gokul Naidu,ECE,1,92,6.78,51.7,16661,5645,3,2,48,31,Day Scholar,High,No,Stable,Stable,1
+STU1173,Divya Sekar,CSE,4,80.9,7.19,86.9,18052,8354,5,0,81,48,Day Scholar,High,Yes,Improving,Increasing,0
+STU1174,Gayathri Kumar,AIDS,2,61.3,8.39,58.2,21276,5964,0,0,4,63,Hosteller,Medium,No,Improving,Stable,0
+STU1175,Ramesh Chandran,CIVIL,2,74.7,7.25,63.1,15465,0,2,0,3,47,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1176,Vaishnavi Nair,MECH,4,96.6,8.12,73.7,10932,14382,2,2,1,44,Day Scholar,Medium,No,Stable,Stable,0
+STU1177,Hariharan Naidu,EEE,1,81.5,7.2,62,11244,8290,3,2,41,69,Day Scholar,Low,No,Stable,Increasing,0
+STU1178,Divyabharathi Krishnan,ECE,3,85.5,6.85,81.7,30917,0,2,2,7,46,Hosteller,High,No,Improving,Stable,0
+STU1179,Dhanya Balan,AIDS,4,82.8,7.83,58.9,8734,19675,2,0,0,34,Hosteller,Medium,Yes,Declining,Stable,0
+STU1180,Vignesh Murugan,ECE,1,66,7.78,59.2,23269,15207,1,1,5,25,Day Scholar,Low,Yes,Declining,Increasing,1
+STU1181,Senthil Ravi,EEE,3,69.3,6.78,80.8,24676,7255,3,1,8,70,Day Scholar,Low,No,Stable,Stable,1
+STU1182,Arun Iyer,AIDS,4,82.7,6.03,53.6,18909,4788,1,1,94,38,Hosteller,High,No,Improving,Stable,1
+STU1183,Abinaya Rajan,AIDS,1,89.4,7.44,68.7,35910,11016,4,0,15,33,Day Scholar,Low,No,Declining,Increasing,1
+STU1184,Sangeetha Moorthy,MECH,4,93.4,7.1,40.1,24515,10012,0,1,5,32,Hosteller,Low,Yes,Stable,Increasing,0
+STU1185,Manoj Shanmugam,MECH,3,66,6.28,92.3,36586,11710,1,3,8,69,Day Scholar,Medium,No,Stable,Decreasing,1
+STU1186,Yamini Raj,CIVIL,3,84.1,5.9,83.1,14140,4802,1,2,8,34,Hosteller,Low,No,Stable,Decreasing,1
+STU1187,Divya Muthu,CIVIL,3,94.6,7.53,100,14294,14489,1,0,0,65,Hosteller,High,No,Declining,Increasing,0
+STU1188,Ashwin Sekar,IT,2,64.2,7.72,85.1,24748,6633,0,1,3,40,Hosteller,Medium,No,Improving,Decreasing,0
+STU1189,Preethi Pillai,IT,4,98.8,6.53,48.1,17647,12404,0,0,24,21,Hosteller,Medium,No,Declining,Increasing,0
+STU1190,Bharath Chandran,CSE,4,100,6.25,75,35171,5015,0,0,3,38,Hosteller,High,Yes,Stable,Decreasing,0
+STU1191,Vikram Kumar,ECE,3,100,5.92,51.2,23075,20000,1,1,5,44,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1192,Anitha Moorthy,CIVIL,4,81.2,7.5,88.7,10599,12478,1,2,9,43,Hosteller,Medium,No,Declining,Decreasing,0
+STU1193,Madhumitha Subramani,MECH,3,81.3,5.95,48.5,4369,20000,2,0,28,42,Hosteller,Medium,Yes,Improving,Increasing,1
+STU1194,Sundar Murugan,EEE,2,89.6,9.91,47.8,19296,13138,0,4,17,39,Hosteller,Medium,No,Stable,Increasing,0
+STU1195,Meena Balan,MECH,3,89.2,6.47,40.9,19198,6193,2,1,23,29,Hosteller,Medium,No,Stable,Stable,1
+STU1196,Keerthana Ravi,ECE,3,93.8,3.85,57.7,22824,13147,2,0,17,45,Hosteller,Medium,No,Stable,Increasing,1
+STU1197,Priyanka Shanmugam,IT,3,89,6.96,54.7,30896,13503,3,1,23,56,Hosteller,High,No,Stable,Decreasing,0
+STU1198,Rajesh Iyer,MECH,4,76.5,6.91,46.1,29712,10867,1,0,0,16,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1199,Kavya Balan,CSE,2,95.1,8.45,94.8,14790,12152,0,1,53,71,Hosteller,High,Yes,Improving,Increasing,0
+STU1200,Dhanya Naidu,ECE,1,63,7.37,72.9,8356,12809,1,1,2,0,Day Scholar,Medium,No,Stable,Increasing,0
+STU1201,Priyanka Muthu,IT,1,78.1,5.92,71.2,8893,4032,3,0,10,47,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1202,Naveen Muthu,EEE,2,99.9,6.63,88.8,13369,3676,3,0,29,54,Hosteller,High,No,Stable,Increasing,0
+STU1203,Yamini Subramani,IT,3,60.5,7.43,68.8,16699,5029,0,0,11,33,Hosteller,Low,No,Improving,Stable,1
+STU1204,Divyabharathi Reddy,AIDS,3,68.5,4.19,53.8,22746,9638,1,0,59,2,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1205,Deepa Kumar,CSE,3,87.4,8.74,39.5,12791,7884,3,1,13,43,Day Scholar,Medium,Yes,Improving,Increasing,0
+STU1206,Arun Shanmugam,ECE,2,83.5,5.92,52.9,22524,4122,1,3,42,48,Day Scholar,Medium,No,Improving,Stable,1
+STU1207,Sowmya Rajan,EEE,3,65.7,8.84,87.6,23258,12877,5,0,33,22,Hosteller,Low,No,Stable,Stable,1
+STU1208,Ashwin Iyer,CSE,2,72.2,7.51,46.2,21290,10415,2,3,79,28,Day Scholar,Medium,Yes,Improving,Stable,1
+STU1209,Senthil Kumar,IT,2,61.5,7.82,70.3,9842,9845,0,3,52,64,Hosteller,Medium,No,Stable,Decreasing,0
+STU1210,Kavya Nair,CSE,3,91.7,8.49,80.5,24210,7710,1,2,46,47,Hosteller,Medium,No,Stable,Increasing,0
+STU1211,Suresh Krishnan,ECE,4,74.4,7.75,69.3,38731,7109,2,2,26,15,Day Scholar,High,No,Declining,Decreasing,0
+STU1212,Deepa Rajan,CIVIL,2,100,7.87,71,22213,4793,0,1,9,54,Hosteller,High,Yes,Declining,Increasing,0
+STU1213,Vikram Ganesan,CSE,1,79.1,6.79,74.8,0,13669,4,3,2,26,Day Scholar,Medium,Yes,Stable,Stable,1
+STU1214,Yamini Subramani,AIDS,1,74.9,7.48,70.7,31168,5483,2,1,23,30,Hosteller,High,No,Declining,Stable,1
+STU1215,Prakash Sekar,CSE,1,73.6,6.24,89.1,13675,10047,2,0,77,49,Day Scholar,Medium,No,Improving,Stable,0
+STU1216,Priyanka Ganesan,IT,3,74.6,6.55,49.4,40000,17310,0,0,26,47,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1217,Suresh Moorthy,IT,2,79.6,9.55,68.6,21047,7339,2,1,53,37,Day Scholar,Medium,No,Stable,Stable,0
+STU1218,Kavya Rajan,EEE,3,100,5.95,37.7,4838,13804,2,1,33,35,Hosteller,Medium,No,Improving,Stable,0
+STU1219,Sathish Nair,IT,2,73.3,7.2,33.9,1418,11844,0,1,4,40,Hosteller,Low,Yes,Improving,Stable,0
+STU1220,Aparna Kumar,MECH,1,73.7,7.15,63.8,33858,10557,0,0,6,29,Day Scholar,Medium,No,Improving,Decreasing,0
+STU1221,Priyanka Subramani,ECE,2,78.9,6.6,73.2,29953,11152,1,0,8,67,Hosteller,Medium,No,Stable,Decreasing,1
+STU1222,Manoj Naidu,ECE,1,93.3,7.67,89.5,40000,8525,3,3,4,14,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1223,Suresh Murugan,CIVIL,2,58.1,7.77,100,20098,9174,1,0,17,40,Day Scholar,High,Yes,Stable,Stable,0
+STU1224,Sowmya Ravi,CIVIL,1,84.4,5.8,84.8,19491,6259,4,1,74,16,Hosteller,Medium,No,Stable,Decreasing,1
+STU1225,Dinesh Naidu,ECE,4,66.6,7.13,75.9,16556,9207,1,1,29,64,Day Scholar,Low,Yes,Stable,Increasing,1
+STU1226,Vijay Kumar,AIDS,1,85.7,5.59,67.4,14075,6074,1,0,11,40,Day Scholar,Medium,Yes,Declining,Stable,0
+STU1227,Suresh Balan,CIVIL,4,71.1,8.03,42,16468,14028,3,3,0,24,Hosteller,Medium,No,Improving,Increasing,1
+STU1228,Priya Rajan,EEE,2,45.7,7.23,62.8,21957,503,5,0,8,59,Hosteller,Medium,No,Declining,Increasing,1
+STU1229,Revathi Rajan,IT,4,83.2,7.11,84.4,12405,11405,1,1,15,0,Hosteller,Low,No,Stable,Decreasing,1
+STU1230,Divya Sekar,ECE,3,83.1,7.86,78.5,4976,10683,2,0,8,51,Hosteller,Medium,No,Stable,Increasing,0
+STU1231,Yamini Ravi,CIVIL,3,69.9,6.64,45.7,21439,10230,1,0,2,68,Day Scholar,High,Yes,Stable,Stable,0
+STU1232,Revathi Moorthy,ECE,3,69.1,8.19,74.2,12204,14122,3,0,12,49,Hosteller,Medium,Yes,Stable,Increasing,0
+STU1233,Dhanya Krishnan,MECH,2,59.6,5.77,72.9,0,7569,3,3,6,35,Day Scholar,High,Yes,Improving,Increasing,1
+STU1234,Mukesh Kumar,CSE,3,88.8,8.84,70.2,24973,10277,4,1,48,20,Hosteller,High,Yes,Stable,Decreasing,0
+STU1235,Arjun Subramani,IT,2,90.4,6.28,64.6,10027,417,3,2,2,67,Day Scholar,Low,No,Declining,Stable,1
+STU1236,Deepa Krishnan,ECE,3,65.7,4.79,75,25956,6923,3,1,1,64,Day Scholar,Medium,No,Stable,Stable,1
+STU1237,Arun Kumar,CSE,1,70.4,6.57,75.5,25741,13279,1,0,0,32,Hosteller,Medium,No,Improving,Stable,0
+STU1238,Gayathri Naidu,CIVIL,2,77.1,6.43,55.4,22552,2304,1,2,8,33,Hosteller,Low,Yes,Improving,Decreasing,0
+STU1239,Arjun Moorthy,CSE,3,100,6.56,71.8,40000,9799,3,1,22,69,Day Scholar,Medium,Yes,Declining,Decreasing,0
+STU1240,Hariharan Balan,IT,3,85.6,7.3,62.2,18758,5612,1,0,26,56,Day Scholar,Medium,No,Improving,Stable,0
+STU1241,Deepa Ganesan,ECE,4,64.8,8.43,42.7,17429,8445,1,0,12,9,Hosteller,Low,No,Improving,Stable,0
+STU1242,Divya Muthu,MECH,3,82.3,6.75,56.6,26153,5912,4,1,23,41,Hosteller,High,Yes,Stable,Increasing,1
+STU1243,Dhanya Krishnan,AIDS,4,58.7,6.1,41.5,19501,2764,3,1,9,40,Hosteller,Medium,No,Declining,Increasing,1
+STU1244,Manoj Sekar,CIVIL,2,88.1,5.54,79.7,30444,10930,3,2,22,50,Hosteller,High,Yes,Stable,Stable,0
+STU1245,Divyabharathi Iyer,ECE,2,100,6.39,70.3,8581,8752,1,0,1,45,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1246,Hariharan Naidu,IT,2,100,4.55,59.7,8730,12063,5,1,10,35,Day Scholar,High,No,Stable,Decreasing,1
+STU1247,Divyabharathi Raj,CIVIL,2,88.3,6.06,86.3,26892,12972,1,0,31,49,Hosteller,Medium,Yes,Improving,Stable,0
+STU1248,Balaji Nair,EEE,4,69.8,8.62,66,9517,15126,2,1,32,36,Day Scholar,Low,No,Declining,Increasing,1
+STU1249,Priya Venkat,CSE,1,59.8,5.93,43.5,25482,9667,1,2,25,113,Hosteller,Medium,Yes,Stable,Stable,1
+STU1250,Senthil Chandran,AIDS,3,58.4,7.82,58.4,23330,15343,4,1,5,47,Day Scholar,Medium,Yes,Stable,Stable,1
+STU1251,Hariharan Murugan,IT,2,38.7,5.41,89.5,13750,4121,1,0,6,45,Hosteller,Medium,Yes,Declining,Increasing,1
+STU1252,Ashwin Murugan,EEE,3,87.7,9.3,55,23305,13545,4,1,111,82,Hosteller,Medium,No,Declining,Increasing,1
+STU1253,Lakshmi Subramani,ECE,3,76.6,9.39,69.1,8889,11297,3,0,2,18,Hosteller,Low,No,Stable,Decreasing,0
+STU1254,Ramesh Krishnan,MECH,2,90.7,7.77,76.2,11001,10165,2,0,4,43,Hosteller,Medium,No,Improving,Decreasing,0
+STU1255,Selvam Krishnan,CIVIL,2,98,9.59,73.8,17865,11224,1,0,3,26,Day Scholar,Medium,No,Declining,Stable,0
+STU1256,Vaishnavi Murugan,CSE,2,79.4,7.46,100,20710,4196,1,0,8,58,Day Scholar,Medium,No,Stable,Stable,0
+STU1257,Swathi Sekar,CIVIL,1,80,8,47.4,17267,3016,1,2,5,35,Hosteller,Medium,Yes,Declining,Increasing,1
+STU1258,Sundar Subramani,AIDS,2,71.5,8.64,48.9,23898,17549,5,3,14,57,Day Scholar,High,Yes,Declining,Decreasing,1
+STU1259,Deepa Sekar,ECE,1,73.2,7.23,47.6,23496,8156,2,0,13,55,Hosteller,Medium,Yes,Improving,Decreasing,0
+STU1260,Praveen Krishnan,CIVIL,2,88.2,4.98,60.6,33764,8085,0,1,46,61,Day Scholar,Medium,Yes,Declining,Increasing,0
+STU1261,Balaji Sekar,CSE,3,75.6,8.03,81.5,19142,3488,2,0,1,55,Hosteller,High,No,Stable,Increasing,0
+STU1262,Selvam Ravi,ECE,3,73.5,6.39,49.5,30751,1591,6,1,8,41,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1263,Vaishnavi Balan,CIVIL,3,77.7,6.48,81.7,28287,8558,1,0,18,17,Hosteller,Low,Yes,Improving,Stable,0
+STU1264,Vijay Sekar,MECH,1,90.4,7.39,65.5,40000,7292,2,1,19,65,Day Scholar,Low,Yes,Declining,Stable,0
+STU1265,Aparna Moorthy,IT,3,68.3,7.74,48.4,18855,9009,1,2,13,73,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1266,Balaji Muthu,ECE,2,77.1,7.2,38.7,16217,9436,1,0,34,26,Hosteller,Low,No,Stable,Decreasing,0
+STU1267,Deepa Reddy,IT,2,81.4,7.83,42.1,31319,20000,0,1,1,60,Hosteller,Medium,No,Declining,Stable,0
+STU1268,Vignesh Ganesan,ECE,4,94.2,6.08,55,23469,7307,0,1,34,22,Hosteller,Low,Yes,Stable,Stable,0
+STU1269,Dinesh Ravi,MECH,1,74.6,6.94,62.5,31535,16900,3,1,14,49,Day Scholar,Low,Yes,Stable,Decreasing,0
+STU1270,Vijay Shanmugam,IT,3,68,8.1,85.2,26451,17210,2,1,3,53,Day Scholar,Medium,Yes,Declining,Increasing,1
+STU1271,Kavya Subramani,EEE,3,71.2,9.3,77,1039,12768,3,1,43,36,Hosteller,High,No,Stable,Decreasing,1
+STU1272,Rajesh Moorthy,CSE,2,92.7,9.76,52.4,23387,7824,3,0,21,47,Hosteller,Medium,Yes,Declining,Increasing,0
+STU1273,Ashwin Ravi,EEE,1,100,7.56,71.1,22801,2193,3,0,4,62,Day Scholar,High,No,Declining,Decreasing,1
+STU1274,Sathish Murugan,CIVIL,1,59.6,8.09,89.8,21198,11390,2,1,1,43,Hosteller,High,No,Stable,Increasing,0
+STU1275,Manoj Rajan,MECH,4,62.7,9.58,93.1,18810,14094,0,1,3,31,Hosteller,Low,Yes,Stable,Decreasing,0
+STU1276,Sundar Balan,EEE,2,75.6,6.13,60.3,5671,17738,5,2,19,21,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1277,Preethi Nair,ECE,2,79.6,7.82,79.4,27868,4250,1,0,4,37,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1278,Sangeetha Subramani,CIVIL,2,89,8,85.8,23364,7782,2,0,5,22,Hosteller,High,No,Stable,Stable,0
+STU1279,Rajesh Chandran,CIVIL,3,65.5,8.88,42.4,29918,4281,3,1,1,37,Day Scholar,Medium,No,Declining,Increasing,1
+STU1280,Kumar Venkat,EEE,1,63.1,5.52,57.3,6151,5833,1,0,26,36,Hosteller,High,No,Improving,Decreasing,1
+STU1281,Prakash Moorthy,EEE,2,79.9,5.78,98.3,24564,12322,3,1,33,61,Day Scholar,Low,No,Improving,Decreasing,0
+STU1282,Ramesh Naidu,MECH,3,74.4,7.03,60.5,17888,5603,0,1,32,46,Hosteller,Low,No,Improving,Increasing,0
+STU1283,Madhumitha Sekar,CSE,4,91,7.49,21.1,21294,4879,1,1,3,96,Day Scholar,Medium,No,Improving,Increasing,0
+STU1284,Sneha Nair,EEE,1,84.8,8.46,63.2,17992,12985,4,2,47,5,Day Scholar,Medium,Yes,Stable,Decreasing,1
+STU1285,Abinaya Balan,AIDS,2,85.8,7.67,81.9,24892,11254,3,0,22,51,Day Scholar,Low,Yes,Improving,Decreasing,0
+STU1286,Gayathri Naidu,EEE,2,76.5,6.8,65.1,18534,10750,0,1,46,36,Hosteller,Medium,Yes,Improving,Decreasing,1
+STU1287,Ramesh Venkat,IT,3,100,7.54,75.7,10533,5736,3,3,12,26,Hosteller,Low,No,Improving,Decreasing,0
+STU1288,Gokul Raj,ECE,2,66.3,7.39,79.1,20778,15465,1,0,11,44,Hosteller,Medium,Yes,Declining,Increasing,1
+STU1289,Suresh Subramani,AIDS,2,86.6,9.27,59.7,18072,9072,0,2,31,43,Day Scholar,High,No,Declining,Stable,0
+STU1290,Sneha Muthu,AIDS,4,60.2,7.22,57.2,19249,20000,4,4,2,67,Hosteller,High,Yes,Improving,Stable,1
+STU1291,Anitha Rajan,IT,3,63,6.5,67.3,0,9806,1,0,15,47,Day Scholar,Medium,No,Stable,Increasing,1
+STU1292,Senthil Kumar,IT,2,69.5,7.58,67.7,26144,0,3,1,36,31,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1293,Nithya Ravi,CIVIL,4,100,7.26,65.8,17168,0,0,2,35,52,Hosteller,Medium,Yes,Improving,Stable,0
+STU1294,Naveen Nair,CSE,3,81.7,4.96,66.4,7867,12120,2,1,63,40,Day Scholar,Low,No,Stable,Stable,1
+STU1295,Ashwin Balan,ECE,2,69.7,6.98,53.8,28303,15502,3,0,24,22,Hosteller,Medium,No,Improving,Stable,0
+STU1296,Priya Murugan,MECH,1,83.2,6.87,76.3,25727,5081,1,2,5,40,Hosteller,Low,No,Declining,Stable,0
+STU1297,Meena Muthu,AIDS,4,78.5,6.29,74,17054,19505,2,3,0,50,Hosteller,High,Yes,Improving,Decreasing,0
+STU1298,Madhumitha Nair,MECH,1,71.1,8.35,45,9630,17315,4,3,13,46,Day Scholar,High,Yes,Declining,Decreasing,1
+STU1299,Gokul Naidu,EEE,1,58.4,5.98,59.2,21602,10053,0,2,14,52,Hosteller,Medium,No,Improving,Decreasing,0
+STU1300,Divyabharathi Muthu,EEE,1,98.1,7.59,66.4,21108,11697,7,0,5,34,Day Scholar,Medium,No,Stable,Decreasing,1
+STU1301,Sundar Krishnan,MECH,3,80.9,6.81,57,28319,13473,3,0,3,51,Hosteller,Low,Yes,Declining,Stable,0
+STU1302,Senthil Balan,EEE,1,100,7.14,74.6,16006,18450,2,0,18,47,Hosteller,Medium,No,Improving,Stable,0
+STU1303,Dhanya Ravi,CSE,1,91.2,7.54,64,30754,12411,3,2,29,48,Day Scholar,Medium,No,Stable,Stable,0
+STU1304,Yamini Iyer,IT,1,85.7,5.3,67.5,15138,9940,0,0,100,46,Hosteller,Medium,No,Stable,Decreasing,0
+STU1305,Balaji Nair,EEE,1,71.9,7.25,59,7888,12362,2,1,28,89,Hosteller,Low,Yes,Stable,Stable,0
+STU1306,Arun Krishnan,CIVIL,3,62.7,9.98,35.1,9809,11687,1,0,32,67,Day Scholar,High,Yes,Improving,Decreasing,0
+STU1307,Praveen Sekar,EEE,3,75,4.98,34.2,19438,13622,2,0,19,51,Hosteller,Medium,No,Improving,Stable,0
+STU1308,Ashwin Kumar,ECE,2,62.3,6.93,73.8,19410,1150,0,1,85,29,Hosteller,High,No,Stable,Increasing,1
+STU1309,Sneha Pillai,CSE,2,87.1,8.46,69,22951,10579,2,1,20,39,Hosteller,High,No,Stable,Decreasing,0
+STU1310,Madhumitha Balan,ECE,3,100,7.39,71.6,19187,11302,4,6,39,77,Hosteller,High,Yes,Stable,Increasing,0
+STU1311,Keerthana Balan,ECE,1,74.3,7.89,67,28796,8636,3,0,58,34,Day Scholar,Low,Yes,Improving,Increasing,1
+STU1312,Prakash Rajan,CIVIL,2,91.2,3.91,68.2,17650,12921,2,0,53,42,Day Scholar,Low,No,Stable,Decreasing,1
+STU1313,Sathish Chandran,CSE,4,68.4,7.78,79.5,2034,18606,1,0,10,41,Hosteller,Medium,Yes,Stable,Decreasing,1
+STU1314,Vikram Murugan,CSE,3,73.8,6.01,71.7,18910,9691,2,1,2,52,Hosteller,Low,Yes,Stable,Increasing,1
+STU1315,Rajesh Muthu,CSE,1,66.6,7.4,80.6,1939,12459,1,2,4,36,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1316,Pooja Venkat,CSE,2,48.1,6.96,67.6,22443,17031,2,2,1,49,Day Scholar,Medium,No,Stable,Increasing,1
+STU1317,Prakash Reddy,CSE,2,77.5,9.96,60.5,29515,9808,2,1,2,37,Hosteller,Medium,Yes,Stable,Stable,0
+STU1318,Selvam Ganesan,CIVIL,2,79.8,7.71,67.9,11124,4558,1,1,4,71,Hosteller,Low,No,Improving,Decreasing,0
+STU1319,Bharath Kumar,EEE,1,92.9,6.85,52.5,32767,12079,2,2,8,31,Day Scholar,High,No,Stable,Decreasing,0
+STU1320,Karthik Rajan,ECE,1,89.1,5.04,59.3,27585,0,0,0,16,65,Day Scholar,Low,No,Improving,Stable,0
+STU1321,Manoj Chandran,CSE,1,89.3,7.16,67.7,30858,0,5,2,25,33,Hosteller,Medium,No,Stable,Stable,1
+STU1322,Deepa Naidu,AIDS,4,64.4,8.07,67.5,21706,10665,2,1,5,28,Hosteller,Medium,Yes,Stable,Stable,0
+STU1323,Keerthana Rajan,EEE,3,84.4,6.9,63.4,11065,0,2,2,22,31,Hosteller,Medium,No,Stable,Increasing,1
+STU1324,Anitha Pillai,EEE,1,100,6.34,44.2,27027,2424,3,0,24,11,Hosteller,Medium,No,Stable,Increasing,1
+STU1325,Deepa Iyer,ECE,1,83.3,6.26,74.5,14379,7100,5,4,16,54,Day Scholar,Low,No,Improving,Decreasing,1
+STU1326,Yamini Murugan,CIVIL,3,100,7.7,77.5,21061,5393,1,1,47,22,Day Scholar,Medium,No,Stable,Increasing,1
+STU1327,Divyabharathi Iyer,MECH,1,100,7.99,89.7,18458,8261,0,1,2,38,Day Scholar,Low,No,Declining,Increasing,0
+STU1328,Dhanya Subramani,MECH,1,74.2,8.77,71.6,30122,14564,2,0,4,60,Hosteller,Low,No,Stable,Increasing,1
+STU1329,Balaji Murugan,EEE,4,68.2,5.71,65,26573,10192,2,1,11,60,Hosteller,Medium,Yes,Stable,Stable,0
+STU1330,Gokul Sekar,IT,1,67.3,7.68,49.8,19275,4803,2,0,3,16,Hosteller,Medium,No,Declining,Increasing,1
+STU1331,Ramesh Kumar,IT,3,56.8,6.84,87.4,2436,15772,5,1,17,51,Hosteller,Medium,No,Stable,Stable,1
+STU1332,Pooja Balan,ECE,4,70.7,6.88,68.7,14283,1856,2,0,10,68,Day Scholar,Medium,Yes,Improving,Stable,1
+STU1333,Yamini Rajan,MECH,2,94.9,7.52,67.9,26338,10109,1,0,7,32,Hosteller,High,No,Stable,Increasing,0
+STU1334,Hariharan Balan,EEE,1,47.1,7.53,61.2,22521,1300,3,2,4,55,Hosteller,High,Yes,Improving,Decreasing,0
+STU1335,Abinaya Krishnan,CIVIL,1,63.5,7.69,60.2,6471,10262,1,2,8,22,Hosteller,Medium,No,Stable,Decreasing,0
+STU1336,Meena Venkat,MECH,4,76.2,5.63,75.3,3741,7407,2,2,19,53,Hosteller,Low,No,Stable,Increasing,1
+STU1337,Suresh Shanmugam,EEE,4,65.7,6.03,49.7,21760,14411,4,0,17,48,Hosteller,Medium,No,Declining,Decreasing,1
+STU1338,Ashwin Raj,EEE,3,70.6,8.93,89.4,10486,12603,1,2,4,58,Day Scholar,Low,No,Stable,Increasing,0
+STU1339,Lakshmi Venkat,CSE,1,70.8,6.71,86.1,11353,6064,1,1,3,57,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1340,Senthil Subramani,CIVIL,4,74.4,7.4,59.7,26053,5105,0,2,1,18,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1341,Mukesh Kumar,CSE,4,67.8,8.37,52,30820,7425,1,1,0,48,Hosteller,Medium,Yes,Declining,Stable,0
+STU1342,Swathi Shanmugam,ECE,3,66.6,7.6,34.8,13244,18378,1,0,42,74,Hosteller,Medium,No,Declining,Increasing,1
+STU1343,Selvam Chandran,CSE,4,91.1,7.71,46.2,19597,17095,0,2,1,1,Day Scholar,Low,No,Declining,Stable,1
+STU1344,Sathish Sekar,AIDS,4,92.7,8.16,75.9,19332,4159,2,1,26,64,Hosteller,Medium,No,Improving,Increasing,0
+STU1345,Praveen Kumar,CSE,3,58.7,4.25,69.7,18522,13001,1,0,41,77,Day Scholar,Medium,Yes,Stable,Increasing,1
+STU1346,Sowmya Reddy,AIDS,3,39.4,6.36,72.4,20365,343,1,1,2,15,Hosteller,Medium,No,Stable,Stable,1
+STU1347,Rajesh Kumar,MECH,2,92.9,7.61,37.3,26808,6763,2,1,11,32,Hosteller,Medium,Yes,Improving,Decreasing,0
+STU1348,Sathish Rajan,IT,1,60.8,8.8,59.1,13935,4362,3,1,66,55,Day Scholar,Medium,No,Declining,Increasing,1
+STU1349,Meena Sekar,EEE,3,81,7.09,85.5,6273,14346,4,3,36,27,Day Scholar,Medium,No,Declining,Stable,1
+STU1350,Suresh Subramani,AIDS,2,56.1,5.9,63.6,35210,2546,4,1,13,72,Day Scholar,Medium,No,Improving,Decreasing,0
+STU1351,Sneha Krishnan,CIVIL,4,96.2,5.94,45.9,29805,11147,2,2,29,66,Day Scholar,Low,No,Improving,Increasing,1
+STU1352,Manoj Subramani,CSE,4,100,8.15,63.3,10067,9004,0,1,36,17,Hosteller,Low,No,Stable,Increasing,0
+STU1353,Vikram Naidu,AIDS,3,80.6,6.72,53.4,21221,8123,3,2,9,30,Day Scholar,Medium,No,Declining,Stable,1
+STU1354,Lakshmi Muthu,CIVIL,1,76.7,6.99,70,29096,17358,1,1,45,60,Day Scholar,Low,No,Stable,Stable,1
+STU1355,Naveen Ganesan,IT,2,73.5,7.8,65.3,26741,17798,2,0,13,60,Hosteller,Medium,No,Improving,Stable,0
+STU1356,Ramesh Ganesan,IT,1,88.9,3.23,73.1,24158,8278,2,2,15,89,Hosteller,Medium,Yes,Improving,Increasing,0
+STU1357,Arun Muthu,CSE,3,85.9,9.6,46.7,18468,7270,0,1,163,27,Day Scholar,High,Yes,Stable,Increasing,0
+STU1358,Senthil Balan,ECE,3,92,6.05,58.3,35546,1466,3,4,37,74,Hosteller,High,No,Declining,Increasing,1
+STU1359,Priya Kumar,CSE,4,69.2,7.31,81.4,21988,8979,2,0,9,27,Hosteller,Low,No,Stable,Stable,0
+STU1360,Selvam Iyer,MECH,2,82.8,4.78,44.7,15365,18767,2,1,0,55,Day Scholar,High,Yes,Stable,Increasing,1
+STU1361,Keerthana Raj,AIDS,4,70.4,6.45,50,27840,8356,3,0,20,63,Hosteller,Medium,No,Improving,Increasing,1
+STU1362,Yamini Iyer,EEE,4,63.2,8.62,68,20865,12644,1,1,24,0,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1363,Sundar Raj,ECE,2,77.4,4.51,69.3,23148,2013,0,5,21,63,Day Scholar,Low,Yes,Stable,Decreasing,0
+STU1364,Karthik Venkat,CSE,4,65.1,8.46,57.7,21828,6826,3,1,69,73,Hosteller,High,No,Stable,Increasing,1
+STU1365,Deepa Kumar,CIVIL,2,94.4,6.64,60.8,24471,11312,1,2,40,67,Day Scholar,Low,No,Stable,Decreasing,0
+STU1366,Madhumitha Subramani,ECE,2,65.9,7.63,73,11194,9529,0,0,12,86,Hosteller,High,No,Declining,Decreasing,0
+STU1367,Priyanka Sekar,AIDS,3,83.1,7.85,77.7,6940,13123,6,1,1,64,Hosteller,Low,No,Improving,Decreasing,0
+STU1368,Vaishnavi Shanmugam,ECE,2,69.6,7.57,49,32907,5987,2,2,13,34,Hosteller,Medium,No,Stable,Stable,1
+STU1369,Manoj Shanmugam,AIDS,3,81.9,5.88,70.5,22246,250,6,1,23,70,Day Scholar,Medium,No,Stable,Decreasing,1
+STU1370,Vikram Ganesan,CSE,3,70.7,6.53,87.7,26938,14610,6,1,19,33,Hosteller,Low,Yes,Stable,Stable,1
+STU1371,Divya Chandran,AIDS,3,60.4,5.1,63.3,4162,4319,2,1,15,47,Hosteller,Low,Yes,Stable,Increasing,0
+STU1372,Sundar Pillai,ECE,2,84.8,7.64,48.8,29600,11533,2,0,13,62,Hosteller,Medium,Yes,Declining,Increasing,0
+STU1373,Sowmya Pillai,CIVIL,3,74.7,9.21,48.1,15307,11254,0,1,7,54,Hosteller,Low,No,Stable,Increasing,1
+STU1374,Dhanya Raj,IT,3,82,4.63,62.6,12744,681,1,1,6,72,Hosteller,Medium,Yes,Improving,Decreasing,1
+STU1375,Swathi Shanmugam,ECE,3,72,6.01,80.5,19430,14246,5,3,14,95,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1376,Gokul Muthu,AIDS,2,59.4,6.76,64.4,11198,6167,3,1,4,22,Hosteller,High,Yes,Stable,Increasing,0
+STU1377,Sowmya Ravi,IT,1,93.2,7.23,67.8,19984,9275,0,0,8,38,Hosteller,Medium,No,Stable,Stable,0
+STU1378,Sneha Kumar,AIDS,3,88.3,8.14,50.1,18773,7209,1,3,8,51,Day Scholar,Low,Yes,Stable,Decreasing,0
+STU1379,Revathi Shanmugam,CIVIL,1,70.1,6.8,79.7,29544,17113,1,0,18,36,Day Scholar,Medium,No,Improving,Stable,0
+STU1380,Priyanka Naidu,AIDS,3,79,6.59,47.8,33620,15717,2,0,1,43,Hosteller,Low,Yes,Stable,Increasing,1
+STU1381,Naveen Subramani,CSE,3,92.6,8.43,57.4,33334,0,4,2,35,61,Hosteller,High,Yes,Stable,Stable,1
+STU1382,Hariharan Murugan,EEE,2,71.6,7.86,74.4,0,20000,2,1,17,58,Day Scholar,High,Yes,Stable,Increasing,1
+STU1383,Lakshmi Sekar,ECE,3,73.8,7.7,34.4,11583,5608,1,1,22,50,Day Scholar,Medium,No,Stable,Stable,0
+STU1384,Lakshmi Sekar,EEE,4,81.4,7.15,67.6,0,19512,1,3,24,48,Hosteller,Low,No,Improving,Stable,0
+STU1385,Pooja Subramani,AIDS,4,71.6,8.28,49.4,9258,7719,3,0,7,41,Day Scholar,High,Yes,Stable,Increasing,0
+STU1386,Sowmya Pillai,CIVIL,4,90,6.15,65.2,14154,7295,3,0,13,73,Hosteller,High,Yes,Declining,Decreasing,0
+STU1387,Divya Balan,ECE,4,75.6,5.97,59.7,23695,7763,4,1,63,78,Hosteller,High,No,Stable,Stable,1
+STU1388,Arjun Chandran,AIDS,1,67,7.97,96.6,15321,6996,2,3,29,65,Hosteller,High,Yes,Stable,Increasing,1
+STU1389,Vaishnavi Chandran,IT,1,86.5,4.89,59.1,15571,20000,1,0,70,22,Day Scholar,Medium,Yes,Stable,Increasing,1
+STU1390,Prakash Rajan,MECH,2,62,7.12,92.6,21636,8618,3,1,27,40,Hosteller,Low,Yes,Declining,Decreasing,1
+STU1391,Dinesh Chandran,AIDS,1,100,6.59,73.8,4616,7489,5,2,4,49,Day Scholar,Medium,Yes,Declining,Decreasing,1
+STU1392,Kavya Iyer,EEE,2,100,5.17,53,12453,9385,3,1,1,26,Hosteller,Medium,Yes,Stable,Stable,0
+STU1393,Priya Iyer,ECE,2,85.2,5.79,70,15468,4163,0,0,17,47,Hosteller,Medium,Yes,Improving,Increasing,1
+STU1394,Priya Krishnan,EEE,3,84,6.86,60.4,18178,16986,2,4,9,45,Hosteller,Medium,Yes,Declining,Stable,0
+STU1395,Keerthana Krishnan,ECE,3,83.4,8.34,68.6,20693,1645,4,0,6,67,Day Scholar,Low,No,Stable,Stable,0
+STU1396,Gokul Venkat,AIDS,3,71.2,6.15,54.3,33506,5930,4,0,33,35,Hosteller,Medium,Yes,Stable,Decreasing,1
+STU1397,Vijay Subramani,CSE,2,82.2,8.58,90.4,28175,13683,3,1,9,68,Hosteller,Medium,No,Declining,Increasing,1
+STU1398,Swathi Naidu,IT,4,65.1,7.08,78.9,13076,9212,2,1,8,26,Hosteller,Low,Yes,Stable,Increasing,0
+STU1399,Nithya Pillai,AIDS,2,85.1,8.7,65.5,17648,11746,4,2,38,29,Day Scholar,Medium,No,Improving,Increasing,0
+STU1400,Arun Subramani,EEE,4,90.1,6.21,90.9,17035,16666,1,0,37,37,Hosteller,High,Yes,Declining,Stable,0
+STU1401,Balaji Moorthy,MECH,1,72.7,6.94,66.1,15373,14019,0,2,9,46,Hosteller,High,No,Stable,Increasing,0
+STU1402,Divyabharathi Ganesan,MECH,4,69.7,7.48,81.5,22453,9687,2,1,36,0,Hosteller,Medium,Yes,Stable,Stable,1
+STU1403,Sowmya Sekar,CIVIL,3,61,6.77,65.6,3262,19447,4,2,38,54,Day Scholar,Medium,No,Stable,Stable,1
+STU1404,Sangeetha Balan,ECE,2,98.4,8.24,70.9,27926,5858,4,2,11,79,Day Scholar,Low,Yes,Stable,Increasing,1
+STU1405,Gokul Reddy,EEE,1,70.8,4.13,63.8,35242,8498,1,0,1,58,Day Scholar,Medium,Yes,Improving,Decreasing,0
+STU1406,Divyabharathi Shanmugam,CIVIL,2,75.2,10,66.4,17571,8848,4,1,0,41,Hosteller,Medium,No,Stable,Stable,0
+STU1407,Nithya Shanmugam,EEE,1,82.2,8.12,67.6,17396,8488,5,0,15,23,Hosteller,Medium,No,Stable,Increasing,1
+STU1408,Priyanka Chandran,ECE,1,82,6.77,55,21413,3654,0,2,8,9,Day Scholar,High,Yes,Declining,Stable,1
+STU1409,Vaishnavi Sekar,AIDS,3,88.5,6.28,59,29174,1082,2,0,117,12,Hosteller,Medium,No,Stable,Decreasing,1
+STU1410,Divyabharathi Murugan,AIDS,2,72.7,5.87,61.7,17081,11086,1,0,30,42,Hosteller,Low,Yes,Declining,Stable,1
+STU1411,Arun Iyer,MECH,3,62.1,7.84,68.4,28406,5833,1,1,29,87,Hosteller,Low,Yes,Declining,Stable,0
+STU1412,Selvam Krishnan,AIDS,4,59.6,8.29,64.5,24396,18539,5,0,62,0,Day Scholar,Medium,No,Stable,Increasing,1
+STU1413,Bharath Shanmugam,AIDS,2,69.9,6.79,82.6,40000,8637,2,0,44,59,Hosteller,Medium,Yes,Improving,Decreasing,0
+STU1414,Nithya Ganesan,CSE,3,64.7,8.44,77.7,17042,7743,1,1,8,31,Day Scholar,High,No,Declining,Increasing,1
+STU1415,Divyabharathi Ganesan,MECH,1,73.7,5.82,62.1,2216,14472,3,1,4,38,Day Scholar,Medium,Yes,Stable,Decreasing,1
+STU1416,Revathi Raj,CIVIL,3,96.3,5.59,85.7,7104,11011,2,0,27,26,Hosteller,Medium,No,Improving,Decreasing,1
+STU1417,Senthil Ganesan,IT,2,72.7,9.36,93.1,20107,8122,1,1,10,18,Hosteller,Medium,No,Improving,Decreasing,0
+STU1418,Vignesh Krishnan,CSE,4,72.7,7.77,34.3,29251,5796,5,1,13,48,Day Scholar,Medium,No,Declining,Increasing,1
+STU1419,Prakash Ganesan,CIVIL,4,77.8,8.82,79,14127,20000,3,1,20,50,Day Scholar,Medium,No,Improving,Decreasing,0
+STU1420,Arjun Shanmugam,ECE,2,72.3,5.89,54.6,17922,10809,2,0,48,58,Day Scholar,Medium,Yes,Improving,Increasing,1
+STU1421,Senthil Venkat,CSE,1,77.1,5.8,77,26164,14422,2,2,11,11,Day Scholar,Medium,No,Stable,Stable,1
+STU1422,Sneha Krishnan,CIVIL,4,85.6,6.53,83.6,11313,3885,0,1,31,62,Hosteller,Low,Yes,Declining,Increasing,0
+STU1423,Bharath Subramani,ECE,4,90.4,5.93,51.8,14499,6110,0,2,6,63,Day Scholar,High,No,Stable,Increasing,0
+STU1424,Yamini Naidu,MECH,1,92,7.92,37.2,9490,19562,0,2,24,53,Hosteller,Medium,No,Improving,Increasing,0
+STU1425,Sundar Sekar,IT,2,100,6.02,77.5,30604,15985,2,2,0,37,Day Scholar,Low,No,Improving,Increasing,0
+STU1426,Sundar Moorthy,ECE,4,86,5.48,67,33875,11288,4,2,41,51,Day Scholar,Low,No,Stable,Stable,1
+STU1427,Ashwin Sekar,AIDS,1,100,7.18,40,5785,7092,5,1,1,42,Day Scholar,Low,Yes,Improving,Increasing,0
+STU1428,Praveen Ravi,EEE,4,67.1,5.32,100,18720,7830,3,2,25,64,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1429,Ashwin Murugan,ECE,2,100,4.66,74.4,32665,5619,4,1,1,38,Day Scholar,Low,Yes,Improving,Decreasing,0
+STU1430,Lakshmi Krishnan,ECE,1,72.7,7.17,75.1,23588,3216,5,0,6,47,Hosteller,Low,No,Declining,Stable,1
+STU1431,Balaji Balan,IT,4,74.1,4.73,85.5,15597,13619,2,1,14,10,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1432,Swathi Shanmugam,EEE,2,76.3,8.01,56.3,6085,11694,2,1,11,51,Hosteller,Medium,No,Improving,Stable,0
+STU1433,Aparna Shanmugam,AIDS,2,74.9,5.19,67,30377,12680,1,2,4,30,Hosteller,Low,Yes,Declining,Stable,0
+STU1434,Nithya Raj,CIVIL,1,79.2,4.09,45.2,23245,7316,0,3,8,55,Hosteller,Medium,No,Stable,Stable,1
+STU1435,Prakash Iyer,CIVIL,1,69.9,6.62,55.9,6743,10278,2,0,26,61,Hosteller,Medium,Yes,Stable,Stable,1
+STU1436,Gayathri Sekar,ECE,3,89.6,7.19,70.8,30709,6840,3,0,22,33,Day Scholar,High,No,Declining,Decreasing,0
+STU1437,Madhumitha Muthu,EEE,2,70.3,7.64,40,5596,5363,5,4,1,46,Day Scholar,Medium,Yes,Stable,Increasing,1
+STU1438,Preethi Reddy,EEE,3,87.2,7.22,55.5,18016,17335,2,3,28,48,Hosteller,Low,No,Stable,Increasing,1
+STU1439,Vikram Pillai,AIDS,4,99.4,5.62,51.1,17618,9608,1,2,1,52,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1440,Divyabharathi Raj,IT,3,73,7.93,67.1,34565,11537,3,1,16,61,Hosteller,Medium,No,Improving,Stable,0
+STU1441,Senthil Pillai,MECH,1,89.1,8.25,73.6,17651,13179,0,2,6,58,Day Scholar,Low,Yes,Improving,Stable,0
+STU1442,Vikram Kumar,CIVIL,2,85.8,5.43,76.1,17618,9670,3,2,18,37,Hosteller,High,No,Stable,Increasing,1
+STU1443,Nithya Pillai,IT,4,100,6.76,80,7732,10203,5,0,6,77,Day Scholar,Medium,Yes,Stable,Increasing,0
+STU1444,Meena Rajan,CSE,3,70.9,6.64,85.6,14236,3567,3,1,84,60,Day Scholar,High,No,Stable,Increasing,1
+STU1445,Priya Chandran,CIVIL,3,89.1,7.29,74.1,12644,4519,2,0,7,73,Hosteller,Medium,Yes,Stable,Stable,0
+STU1446,Priyanka Reddy,IT,1,55.2,6.73,93.3,13113,4261,1,1,6,52,Day Scholar,Medium,Yes,Declining,Stable,1
+STU1447,Karthik Muthu,CIVIL,2,71.1,6.91,66.8,20057,12027,3,1,7,53,Day Scholar,Medium,No,Declining,Increasing,1
+STU1448,Dinesh Iyer,MECH,3,82.9,7.83,62.4,0,9354,0,1,45,43,Day Scholar,Medium,Yes,Stable,Decreasing,0
+STU1449,Vikram Murugan,CSE,4,97.5,5.55,74.1,6408,4520,4,3,20,36,Hosteller,Medium,Yes,Declining,Stable,1
+STU1450,Revathi Pillai,MECH,3,60.8,7.96,61.8,19001,11900,4,0,26,65,Hosteller,High,No,Stable,Increasing,1
+STU1451,Divya Ravi,AIDS,4,89,8.48,92.8,21091,11717,3,2,50,50,Day Scholar,Medium,No,Stable,Increasing,0
+STU1452,Yamini Chandran,CSE,3,77.1,9.12,82,17899,5525,1,0,49,42,Hosteller,High,No,Improving,Stable,0
+STU1453,Priya Shanmugam,ECE,1,56.7,4.21,76.3,19633,8861,0,1,27,25,Day Scholar,High,Yes,Improving,Stable,0
+STU1454,Meena Sekar,IT,2,80.5,6.76,67,16318,11736,2,1,4,76,Hosteller,High,Yes,Declining,Increasing,1
+STU1455,Priyanka Pillai,CSE,1,100,4.45,58.9,19833,4708,3,2,37,47,Hosteller,Medium,No,Stable,Stable,0
+STU1456,Divya Shanmugam,AIDS,1,62.3,3.83,75.5,23907,11831,2,2,5,20,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1457,Kumar Iyer,AIDS,4,76.5,7.19,48.1,23844,10505,1,1,27,47,Day Scholar,Low,No,Improving,Increasing,0
+STU1458,Divyabharathi Muthu,MECH,2,64.2,6.48,88,13799,4004,3,1,23,41,Hosteller,Medium,Yes,Stable,Increasing,1
+STU1459,Senthil Moorthy,CIVIL,2,71.4,7.39,62.3,28236,10099,1,0,28,40,Day Scholar,Low,No,Declining,Increasing,1
+STU1460,Suresh Pillai,CSE,1,98.1,7.63,69.6,21414,10828,3,1,15,57,Hosteller,Low,No,Declining,Stable,1
+STU1461,Divyabharathi Murugan,IT,2,74.2,8.62,51.4,31090,5870,4,1,20,41,Day Scholar,Low,No,Improving,Stable,0
+STU1462,Vijay Ravi,CSE,1,97.6,7.07,75.8,32896,6264,3,2,61,39,Day Scholar,High,Yes,Stable,Stable,0
+STU1463,Mukesh Ravi,EEE,1,93.5,10,58.2,7015,3958,2,2,2,72,Hosteller,High,No,Improving,Decreasing,0
+STU1464,Selvam Moorthy,CIVIL,3,72.9,7.4,74.7,12269,6755,1,1,7,10,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1465,Prakash Kumar,IT,1,71,9.4,76.4,27322,8940,3,1,19,44,Hosteller,Medium,No,Stable,Decreasing,0
+STU1466,Divyabharathi Ganesan,IT,3,65.5,3.97,55.3,5016,6277,1,1,67,64,Hosteller,Medium,No,Improving,Increasing,1
+STU1467,Sneha Subramani,ECE,1,65,8.75,48.1,32782,1576,5,1,2,58,Day Scholar,Medium,Yes,Declining,Decreasing,1
+STU1468,Kumar Murugan,MECH,1,82.9,6.77,88,16905,5557,2,1,0,65,Hosteller,Medium,No,Improving,Decreasing,0
+STU1469,Praveen Chandran,ECE,1,77.7,4.47,62.1,25175,6914,4,0,1,85,Hosteller,Medium,No,Declining,Decreasing,1
+STU1470,Karthik Kumar,IT,3,69.3,7.55,68.4,18952,13084,1,2,1,79,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1471,Meena Venkat,CIVIL,3,56.3,6.61,72.3,7468,11974,4,1,48,22,Hosteller,Medium,No,Stable,Decreasing,1
+STU1472,Lakshmi Subramani,CSE,2,79.5,7.75,46.2,29500,13181,1,1,26,13,Day Scholar,Medium,Yes,Declining,Stable,0
+STU1473,Manoj Naidu,CSE,2,71.4,8.31,71.9,40000,5305,5,2,23,52,Hosteller,Medium,Yes,Stable,Decreasing,1
+STU1474,Madhumitha Raj,CIVIL,3,75.3,5.06,66.5,15365,9708,0,1,15,18,Day Scholar,High,No,Stable,Increasing,1
+STU1475,Praveen Iyer,IT,1,82.3,8.32,55.3,17099,0,3,1,30,6,Hosteller,Low,No,Stable,Increasing,0
+STU1476,Divya Ravi,AIDS,2,43,7.01,47.7,0,11145,3,1,3,51,Hosteller,Medium,Yes,Improving,Increasing,1
+STU1477,Arun Subramani,CSE,4,56.5,8.76,74.1,32164,12054,2,2,10,56,Hosteller,Medium,No,Stable,Stable,0
+STU1478,Ramesh Sekar,AIDS,3,100,6.73,81.9,28206,7242,2,1,13,79,Hosteller,Low,No,Stable,Stable,0
+STU1479,Ramesh Chandran,CSE,2,70.9,6.39,67.7,4400,10477,2,2,2,60,Hosteller,Medium,No,Declining,Stable,1
+STU1480,Bharath Pillai,CSE,4,42.8,7.04,43.5,1416,1425,2,0,11,83,Hosteller,Low,No,Declining,Stable,1
+STU1481,Rajesh Sekar,MECH,3,57.7,7.13,49.1,2457,4995,2,0,8,52,Day Scholar,Medium,Yes,Stable,Stable,0
+STU1482,Suresh Moorthy,MECH,1,100,6.14,58.5,25807,12827,1,1,1,22,Hosteller,Medium,No,Stable,Decreasing,0
+STU1483,Dhanya Ganesan,EEE,3,68.2,6.35,88.5,26705,11556,2,1,3,61,Day Scholar,Medium,No,Declining,Increasing,1
+STU1484,Kumar Reddy,ECE,3,94.2,5.41,61.3,11690,6941,1,2,29,72,Hosteller,Medium,Yes,Stable,Decreasing,0
+STU1485,Sowmya Moorthy,CIVIL,2,79.7,6.43,58,24493,13057,0,2,0,53,Day Scholar,Low,No,Improving,Stable,0
+STU1486,Rajesh Krishnan,CIVIL,2,71.2,7.88,39.9,21430,9691,4,0,54,74,Hosteller,Medium,Yes,Stable,Stable,0
+STU1487,Arun Iyer,CIVIL,2,88.9,6.82,55.1,16695,6479,2,2,2,43,Hosteller,Low,Yes,Declining,Stable,1
+STU1488,Nithya Iyer,EEE,3,44.6,8.31,46.5,28732,8086,3,1,32,56,Hosteller,High,No,Stable,Increasing,0
+STU1489,Kumar Reddy,MECH,2,57.8,6.76,50,9156,6723,2,1,46,42,Hosteller,High,No,Stable,Stable,1
+STU1490,Vikram Ganesan,IT,4,71.1,5.14,66.8,30328,3081,5,1,57,93,Hosteller,Medium,No,Improving,Stable,1
+STU1491,Priyanka Krishnan,AIDS,3,59.2,7.78,59,13443,15283,3,1,40,62,Hosteller,High,No,Declining,Stable,1
+STU1492,Sathish Subramani,AIDS,1,69.9,6.12,90.5,36034,6160,2,1,7,23,Day Scholar,Medium,No,Stable,Decreasing,0
+STU1493,Suresh Muthu,IT,3,90,6.7,81.2,10952,4838,2,1,8,82,Day Scholar,High,No,Stable,Stable,0
+STU1494,Sangeetha Murugan,EEE,1,79.8,8.61,55.9,16836,1353,3,1,11,30,Hosteller,Medium,No,Improving,Increasing,1
+STU1495,Ashwin Balan,IT,3,96.6,5.49,51.2,20527,0,2,1,3,45,Day Scholar,Low,Yes,Improving,Increasing,0
+STU1496,Preethi Venkat,CIVIL,3,80.7,7.21,85.7,20471,12507,2,0,0,54,Day Scholar,High,Yes,Declining,Increasing,1
+STU1497,Gayathri Iyer,ECE,1,91.9,6.95,89.9,24417,12968,1,1,41,56,Day Scholar,Low,Yes,Declining,Decreasing,0
+STU1498,Sundar Iyer,CSE,2,77.1,7.91,32.1,8429,14965,0,2,16,55,Hosteller,Low,No,Stable,Decreasing,1
+STU1499,Sangeetha Muthu,AIDS,1,69.7,8.11,66.4,19664,8255,1,1,19,22,Hosteller,Low,No,Improving,Stable,0
