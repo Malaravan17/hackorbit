@@ -1,10 +1,12 @@
- Explainable Student Early-Warning System
+Explainable Student Early-Warning System
 
 DropoutGuard is an AI-powered student early-warning system designed to identify students who may be at risk of dropping out and explain the factors behind each prediction.
 
 The system combines academic performance, attendance, engagement, and student activity data with an XGBoost machine-learning model. It then uses Gemini to convert the model's important factors into a clear, human-readable explanation so that faculty and mentors can understand the prediction and take appropriate early action.
 
 Output:
+
+
 1 )
 <img width="1915" height="912" alt="Screenshot 2026-08-14 150947" src="https://github.com/user-attachments/assets/4c4ba1ed-0cd7-41eb-a7d7-29fca2969f26" />
 
